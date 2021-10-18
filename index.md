@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mia Workshop 2021
 
 You can use the [editor on GitHub](https://github.com/miaworkshop/mia2022/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
